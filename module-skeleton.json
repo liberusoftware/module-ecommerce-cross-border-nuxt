@@ -1,0 +1,15 @@
+{
+  "repository": "module-ecommerce-cross-border-nuxt",
+  "capabilityKey": "planned:ecommerce:cross-border",
+  "presentation": "nuxt-vue",
+  "package": "@liberusoftware/module-ecommerce-cross-border-nuxt",
+  "foundation": "module-boilerplate-nuxt",
+  "foundationCommit": "79158f1285e465decdccea7fe7c80bf652abd114",
+  "canonicalPlan": "projects/ecommerce/nextjs/cross-border.md",
+  "presentationPlan": "projects/ecommerce/nuxt/cross-border.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "ecommerce"
+  ]
+}
